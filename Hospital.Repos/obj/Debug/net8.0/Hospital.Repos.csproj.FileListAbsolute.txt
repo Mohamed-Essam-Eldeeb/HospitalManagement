@@ -1,0 +1,12 @@
+E:\Projects\Hospital Management\Hospital.Repos\bin\Debug\net8.0\Hospital.Repos.deps.json
+E:\Projects\Hospital Management\Hospital.Repos\bin\Debug\net8.0\Hospital.Repos.dll
+E:\Projects\Hospital Management\Hospital.Repos\bin\Debug\net8.0\Hospital.Repos.pdb
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.csproj.AssemblyReference.cache
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.AssemblyInfoInputs.cache
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.AssemblyInfo.cs
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.csproj.CoreCompileInputs.cache
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.dll
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\refint\Hospital.Repos.dll
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\Hospital.Repos.pdb
+E:\Projects\Hospital Management\Hospital.Repos\obj\Debug\net8.0\ref\Hospital.Repos.dll
